@@ -77,9 +77,9 @@ const CreateTicket = () => {
             required
           >
             <option selected>Select Product</option>
-            <option value="iPhone">iMac</option>
+            <option value="iPhone">iPhone</option>
             <option value="iPad">iPad</option>
-            <option value="iMac">iPhone</option>
+            <option value="iMac">iMac</option>
             <option value="iWatch">iWatch</option>
             <option value="Macbook">Macbook</option>
           </select>
